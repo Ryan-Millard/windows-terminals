@@ -147,3 +147,9 @@ Here you can find a list of themes, how they look like and you have a small link
 ![Fallout PipBoy](images/Fallout_PipBoy-example.jpg)
 
 > Details: [Fallout PipBoy](themes/Fallout-PipBoy.md)
+
+### Shrek
+
+![Shrek](images/shrek-demo.png)
+
+> Details: [Shrek](themes/Shrek.md)
